@@ -4,7 +4,7 @@ import Linkbtn from "./layouts/Linkbtn";
 const Signup = () => {
   return (
     <Fragment>
-      <Linkbtn tag="signin" />
+      <Linkbtn tag="signin" icon="id card" />
     </Fragment>
   );
 };
