@@ -4,7 +4,7 @@ import Linkbtn from "./layouts/Linkbtn";
 const Lottery = () => {
   return (
     <Fragment>
-      <Linkbtn tag="homepage" />
+      <Linkbtn tag="homepage" icon="compass" />
     </Fragment>
   );
 };
